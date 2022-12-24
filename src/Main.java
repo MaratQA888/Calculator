@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        int ticketprice = 2000;
-        int rublespermile = 20;
-        int bonus = ticketprice / rublespermile;
+        int ticketPrice = 2000;
+        int rublesPerMile = 20;
+        int bonus = ticketPrice / rublesPerMile;
 
         System.out.println(bonus + " бонусных миль начислено");
 
